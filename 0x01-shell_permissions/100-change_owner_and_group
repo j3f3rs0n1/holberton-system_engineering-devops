@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=rwx vincent:staff
+chown --reference=file/ vincent:staff
