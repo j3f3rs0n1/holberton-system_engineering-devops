@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -m ./
+wc -m ./ 0x02-shell_redirections
