@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f [:lower:] c | [:upper:] C
+rm [:alpha:] c | [:alpha:] C
