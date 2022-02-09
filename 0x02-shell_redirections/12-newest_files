@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -type f | ls -tl | head
+sort -type f | ls -tl | head -n 10
